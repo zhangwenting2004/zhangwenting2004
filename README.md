@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 # readme #
-## <a href="readme.md">readme1</a> ##
+## <a href="readme">readme1</a> ##
 ![image](https://user-images.githubusercontent.com/89767390/131304250-65e8ba33-97fd-4b0b-8a24-71042ab59efd.png)
 
 <!---
